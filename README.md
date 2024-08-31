@@ -1,1 +1,1 @@
-# spotx-official.github.io
+# hurricane-spotx-official.github.io
